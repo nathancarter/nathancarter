@@ -7,18 +7,19 @@ You might want [my main website](https://nathancarter.github.io).
 
 ## Data science
 
- * **Course notes** for MA346 Fall 2020 ([repo](https://github.com/nathancarter/MA346-course-notes),
-   [website](https://nathancarter.github.io/MA346-course-notes/))
-   (still in progress! ⚠️)
+ * **Course notes** for MA346 Fall 2020
+   ([repo](https://github.com/nathancarter/MA346-course-notes),
+   [website](https://nathancarter.github.io/MA346-course-notes/)),
+   *in progress* ⚠️
  * **DataFrame Animations** ([repo](https://github.com/nathancarter/dataframe-animations),
    [website](https://nathancarter.github.io/dataframe-animations/))
  * **Clustering for the NCAA** ([repo](https://github.com/nathancarter/clustering-for-ncaa)),
-   to accompany a forthcoming paper
+   code and data to accompany a forthcoming paper
 
 ## Math
 
  * Group theory visualization
-    * ⭐️ **Group Explorer 3.0** ([repo](https://github.com/nathancarter/group-explorer),
+    * **Group Explorer 3.0** ([repo](https://github.com/nathancarter/group-explorer),
       [website](http://nathancarter.github.io/group-explorer/index.html)), mostly
       done by [Ray](https://github.com/rayellis4)! ⭐️
     * **ge-lib** ([repo](https://github.com/nathancarter/ge-lib)), for accessing Group
