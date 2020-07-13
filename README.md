@@ -7,6 +7,9 @@ You might want [my main website](https://nathancarter.github.io).
 
 ## Data science 📊
 
+ * **Data Science for Mathematicians** book website ⚠️ *in progress!* ⚠️
+   ([repo](https://github.com/ds4m/ds4m.github.io),
+   [website](https://ds4m.github.io))
  * **Course notes** for MA346 Fall 2020 ⚠️ *in progress!* ⚠️
    ([repo](https://github.com/nathancarter/MA346-course-notes),
    [website](https://nathancarter.github.io/MA346-course-notes/))
@@ -22,7 +25,8 @@ You might want [my main website](https://nathancarter.github.io).
     * **Group Explorer 3.0**
       ⭐️ great web app built mostly by [Ray](https://github.com/rayellis4)! ⭐️
       ([repo](https://github.com/nathancarter/group-explorer),
-      [website](http://nathancarter.github.io/group-explorer/index.html))
+      [website](http://nathancarter.github.io/group-explorer/index.html),
+      [book](http://web.bentley.edu/empl/c/ncarter/vgt/))
     * **ge-lib** accesses Group Explorer from the command line or from
       [node.js](https://nodejs.org/en/)
        ([repo](https://github.com/nathancarter/ge-lib))
@@ -58,3 +62,6 @@ You might want [my main website](https://nathancarter.github.io).
  * A **partial OpenMath implementation** in JavaScript
    ([repo](https://github.com/lurchmath/openmath-js),
    [docs](https://lurchmath.github.io/openmath-js/site/))
+ * **Math of Computer Graphics** textbook website
+   ([repo](https://github.com/nathancarter/mocg),
+   [website](https://nathancarter.github.io/mocg/site/index.html))
