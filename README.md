@@ -7,9 +7,9 @@ You might want [my main website](https://nathancarter.github.io).
 
 ## Data science
 
- * **Course notes** for MA346 Fall 2020 ⚠️ *in progress* ⚠️
+ * **Course notes** for MA346 Fall 2020 ⚠️ *in progress!* ⚠️
    ([repo](https://github.com/nathancarter/MA346-course-notes),
-   [website](https://nathancarter.github.io/MA346-course-notes/)),
+   [website](https://nathancarter.github.io/MA346-course-notes/))
  * **DataFrame Animations**
    ([repo](https://github.com/nathancarter/dataframe-animations),
    [website](https://nathancarter.github.io/dataframe-animations/))
@@ -19,8 +19,8 @@ You might want [my main website](https://nathancarter.github.io).
 ## Math
 
  * Group theory visualization
-    * **Group Explorer 3.0**,
-      great web app, mostly done by [Ray](https://github.com/rayellis4)! ⭐️
+    * **Group Explorer 3.0**
+      ⭐️ great web app built mostly by [Ray](https://github.com/rayellis4)! ⭐️
       ([repo](https://github.com/nathancarter/group-explorer),
       [website](http://nathancarter.github.io/group-explorer/index.html))
     * **ge-lib** accesses Group Explorer from the command line or from
@@ -30,21 +30,21 @@ You might want [my main website](https://nathancarter.github.io).
     * **Model games**, for teaching quantifiers in intro logic course
       ([repo](https://github.com/nathancarter/model-games),
       [website](https://nathancarter.github.io/model-games/))
-    * **Second-order matching**, a project I did not code but supervised
-      (thanks, [George](https://github.com/GeorgeTillisch)!)
+    * **Second-order matching** algorithm for OpenMath expressions,
+      great tool built mostly by [George](https://github.com/GeorgeTillisch)
       ([repo](https://github.com/lurchmath/second-order-matching),
       [docs](https://lurchmath.github.io/second-order-matching/docs/))
     * **The Lurch Project** is undergoing a major redesign;
-      its old version can be found online [here](http://lurchmath.org/).
+      its old version has [a separate website](http://lurchmath.org/).
  * [GAP](http://www.gap-system.org/) packages
-    * One for accessing **Group Explorer's visualizations** from within GAP
+    * **Access Group Explorer's visualizations** from within GAP
       ([repo](https://github.com/nathancarter/gap-pkg-groupexplorer),
       [manual](https://nathancarter.github.io/gap-pkg-groupexplorer/))
-    * JupyterViz **generates JavaScript-based visualizations**
+    * **Generate JavaScript-based visualizations**
       from the GAP REPL or from Jupyter
       ([repo](https://github.com/nathancarter/jupyterviz),
       [manual](https://nathancarter.github.io/jupyterviz/))
-    * **Visualizing semigroups**
+    * **Visualize semigroups**
       ([repo](https://github.com/nathancarter/semigroupviz),
       [manual](https://nathancarter.github.io/semigroupviz/))
 
@@ -55,6 +55,6 @@ You might want [my main website](https://nathancarter.github.io).
  * A **simple course management system** for RStudio Server Pro instances
    ([repo](https://github.com/nathancarter/simplecms),
    [paper](https://escholarship.org/uc/item/5092x4hx))
- * **OpenMath-JS**, a partial implementation of OpenMath in JavaScript
+ * A **partial OpenMath implementation** in JavaScript
    ([repo](https://github.com/lurchmath/openmath-js),
    [docs](https://lurchmath.github.io/openmath-js/site/))
