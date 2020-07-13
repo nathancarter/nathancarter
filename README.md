@@ -5,7 +5,7 @@ You might want [my main website](https://nathancarter.github.io).
 
 # My GitHub repositories:
 
-## Data science
+## Data science 📊
 
  * **Course notes** for MA346 Fall 2020 ⚠️ *in progress!* ⚠️
    ([repo](https://github.com/nathancarter/MA346-course-notes),
@@ -16,7 +16,7 @@ You might want [my main website](https://nathancarter.github.io).
  * **Clustering for the NCAA**, code and data to accompany a forthcoming paper
    ([repo](https://github.com/nathancarter/clustering-for-ncaa))
 
-## Math
+## Math 🧮
 
  * Group theory visualization
     * **Group Explorer 3.0**
@@ -48,7 +48,7 @@ You might want [my main website](https://nathancarter.github.io).
       ([repo](https://github.com/nathancarter/semigroupviz),
       [manual](https://nathancarter.github.io/semigroupviz/))
 
-## Computing
+## Computing 🖥
 
  * **jsfs**, a small filesystem in browser LocalStorage
    ([repo](https://github.com/nathancarter/jsfs))
