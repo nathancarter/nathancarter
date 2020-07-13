@@ -54,14 +54,14 @@ You might want [my main website](https://nathancarter.github.io).
 
 ## Computing 🖥
 
+ * **Math of Computer Graphics** textbook website
+   ([repo](https://github.com/nathancarter/mocg),
+   [website](https://nathancarter.github.io/mocg/site/index.html))
+ * A **partial OpenMath implementation** in JavaScript
+   ([repo](https://github.com/lurchmath/openmath-js),
+   [docs](https://lurchmath.github.io/openmath-js/site/))
  * **jsfs**, a small filesystem in browser LocalStorage
    ([repo](https://github.com/nathancarter/jsfs))
  * A **simple course management system** for RStudio Server Pro instances
    ([repo](https://github.com/nathancarter/simplecms),
    [paper](https://escholarship.org/uc/item/5092x4hx))
- * A **partial OpenMath implementation** in JavaScript
-   ([repo](https://github.com/lurchmath/openmath-js),
-   [docs](https://lurchmath.github.io/openmath-js/site/))
- * **Math of Computer Graphics** textbook website
-   ([repo](https://github.com/nathancarter/mocg),
-   [website](https://nathancarter.github.io/mocg/site/index.html))
