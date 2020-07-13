@@ -7,40 +7,43 @@ You might want [my main website](https://nathancarter.github.io).
 
 ## Data science
 
- * **Course notes** for MA346 Fall 2020
+ * **Course notes** for MA346 Fall 2020 ⚠️ *in progress* ⚠️
    ([repo](https://github.com/nathancarter/MA346-course-notes),
    [website](https://nathancarter.github.io/MA346-course-notes/)),
-   *in progress* ⚠️
- * **DataFrame Animations** ([repo](https://github.com/nathancarter/dataframe-animations),
+ * **DataFrame Animations**
+   ([repo](https://github.com/nathancarter/dataframe-animations),
    [website](https://nathancarter.github.io/dataframe-animations/))
- * **Clustering for the NCAA** ([repo](https://github.com/nathancarter/clustering-for-ncaa)),
-   code and data to accompany a forthcoming paper
+ * **Clustering for the NCAA**, code and data to accompany a forthcoming paper
+   ([repo](https://github.com/nathancarter/clustering-for-ncaa))
 
 ## Math
 
  * Group theory visualization
-    * **Group Explorer 3.0** ([repo](https://github.com/nathancarter/group-explorer),
-      [website](http://nathancarter.github.io/group-explorer/index.html)), mostly
-      done by [Ray](https://github.com/rayellis4)! ⭐️
-    * **ge-lib** ([repo](https://github.com/nathancarter/ge-lib)), for accessing Group
-      Explorer from the command line or node.js
+    * **Group Explorer 3.0**,
+      great web app, mostly done by [Ray](https://github.com/rayellis4)! ⭐️
+      ([repo](https://github.com/nathancarter/group-explorer),
+      [website](http://nathancarter.github.io/group-explorer/index.html))
+    * **ge-lib** accesses Group Explorer from the command line or from
+      [node.js](https://nodejs.org/en/)
+       ([repo](https://github.com/nathancarter/ge-lib))
  * Logic
     * **Model games**, for teaching quantifiers in intro logic course
       ([repo](https://github.com/nathancarter/model-games),
       [website](https://nathancarter.github.io/model-games/))
-    * **Second-order matching**, a project I did not code but supervized
+    * **Second-order matching**, a project I did not code but supervised
       (thanks, [George](https://github.com/GeorgeTillisch)!)
       ([repo](https://github.com/lurchmath/second-order-matching),
-      [code docs](https://lurchmath.github.io/second-order-matching/docs/))
-    * **The Lurch Project** is undergoing a major redesign; its old version can be
-      found online [here](http://lurchmath.org/).
+      [docs](https://lurchmath.github.io/second-order-matching/docs/))
+    * **The Lurch Project** is undergoing a major redesign;
+      its old version can be found online [here](http://lurchmath.org/).
  * [GAP](http://www.gap-system.org/) packages
     * One for accessing **Group Explorer's visualizations** from within GAP
       ([repo](https://github.com/nathancarter/gap-pkg-groupexplorer),
       [manual](https://nathancarter.github.io/gap-pkg-groupexplorer/))
-    * JupyterViz ([repo](https://github.com/nathancarter/jupyterviz),
-      [manual](https://nathancarter.github.io/jupyterviz/)), for **generating
-      JavaScript-based visualizations**, from the GAP REPL or from Jupyter
+    * JupyterViz **generates JavaScript-based visualizations**
+      from the GAP REPL or from Jupyter
+      ([repo](https://github.com/nathancarter/jupyterviz),
+      [manual](https://nathancarter.github.io/jupyterviz/))
     * **Visualizing semigroups**
       ([repo](https://github.com/nathancarter/semigroupviz),
       [manual](https://nathancarter.github.io/semigroupviz/))
