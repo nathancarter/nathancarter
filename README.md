@@ -1,9 +1,7 @@
 
-# I do math and computer science.
+# My GitHub repositories
 
-You might want [my main website](https://nathancarter.github.io).
-
-# My GitHub repositories:
+See also: [my main website](https://nathancarter.github.io).
 
 ## Data science 📊
 
