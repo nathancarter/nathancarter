@@ -8,7 +8,7 @@ See also: [my main website](https://nathancarter.github.io).
  * **Data Science for Mathematicians** book website ⚠️ *in progress!* ⚠️
    ([repo](https://github.com/ds4m/ds4m.github.io),
    [website](https://ds4m.github.io))
- * **Course notes** for MA346 Fall 2020 ⚠️ *in progress!* ⚠️
+ * **Course notes** for MA346 Fall 2020
    ([repo](https://github.com/nathancarter/MA346-course-notes),
    [website](https://nathancarter.github.io/MA346-course-notes/))
  * **DataFrame Animations**
