@@ -5,9 +5,12 @@ See also: [my main website](https://nathancarter.github.io).
 
 ## Data science 📊
 
- * **Data Science for Mathematicians** book website ⚠️ *in progress!* ⚠️
+ * **Data Science for Mathematicians** book website
    ([repo](https://github.com/ds4m/ds4m.github.io),
    [website](https://ds4m.github.io))
+ * **How to Data:** math, stats, and data recipes, in code form
+   ([repo](https://github.com/nathancarter/how2data/),
+   [website](https://nathancarter.github.io/how2data/site/))
  * **Course notes** for MA346 Fall 2020
    ([repo](https://github.com/nathancarter/MA346-course-notes),
    [website](https://nathancarter.github.io/MA346-course-notes/))
