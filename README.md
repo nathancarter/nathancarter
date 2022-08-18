@@ -17,9 +17,9 @@ See also: [my main website](https://nathancarter.github.io).
  * **DataFrame Animations**
    ([repo](https://github.com/nathancarter/dataframe-animations),
    [website](https://nathancarter.github.io/dataframe-animations/))
- * **Clustering for the NCAA**, code and data to accompany
-   [this paper](https://www.degruyter.com/document/doi/10.1515/jqas-2020-0101/html)
-   ([repo](https://github.com/nathancarter/clustering-for-ncaa))
+ * **Clustering for the NCAA**, code and data to accompany a paper
+   ([paper](https://www.degruyter.com/document/doi/10.1515/jqas-2020-0101/html),
+   [repo](https://github.com/nathancarter/clustering-for-ncaa))
 
 ## Math 🧮
 
