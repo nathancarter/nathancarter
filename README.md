@@ -40,8 +40,6 @@ See also: [my main website](https://nathancarter.github.io).
       great tool built mostly by [George](https://github.com/GeorgeTillisch)
       ([repo](https://github.com/lurchmath/second-order-matching),
       [docs](https://lurchmath.github.io/second-order-matching/docs/))
-    * **The Lurch Project** is undergoing a major redesign;
-      its old version has [a separate website](http://lurchmath.org/).
  * [GAP](http://www.gap-system.org/) packages
     * **Access Group Explorer's visualizations** from within GAP
       ([repo](https://github.com/nathancarter/gap-pkg-groupexplorer),
